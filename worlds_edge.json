@@ -1,0 +1,62 @@
+{
+  "tsm": {
+    "config": {
+      "default": true,
+      "icon": "img/markers/50px-TSM_2019_darkmode.png",
+      "id": "tsm",
+      "name": "TSM",
+      "popup": "TSM"
+    },
+    "elements": [
+      {
+        "x": 2585,
+        "y": 1770
+      }
+    ]
+  },
+  "100t": {
+    "config": {
+      "default": true,
+      "icon": "img/markers/64px-100_Thieves_lightmode.png",
+      "id": "100thieves",
+      "name": "100 Thieves",
+      "popup": "100 Thieves"
+    },
+    "elements": [
+      {
+        "x": 1587,
+        "y": 967
+      }
+    ]
+  },
+  "teamliquid": {
+    "config": {
+      "default": true,
+      "icon": "img/markers/44px-Team_Liquid_2020_lightmode.png",
+      "id": "teamliquid",
+      "name": "Team Liquid",
+      "popup": "Team Liquid"
+    },
+    "elements": [
+      {
+        "x": 1265,
+        "y": 1013
+      }
+    ]
+  },
+  "nrg": {
+    "config": {
+      "default": true,
+      "icon": "img/markers/100px-NRG_2020_darkmode.png",
+      "id": "nrg",
+      "name": "NRG",
+      "popup": "NRG"
+    },
+    "elements": [
+      {
+        "x": 1311,
+        "y": 2357
+      }
+    ]
+  }
+}
