@@ -5,3 +5,4 @@ Contributors:
 
 1. Yours truly.
 
+To submit your names in contributors, please DM on Reddit at u/AwkwardShake
