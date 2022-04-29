@@ -58,5 +58,6 @@
         "y": 2357
       }
     ]
-  }
+  },
+  "ctiJCZa": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/element6.png",      "id": "ctiJCZa",      "name": "Element 6",      "popup": "Element 6"    },    "elements": [      {        "x": 1225,        "y": 924      }    ]  }
 }
