@@ -321,5 +321,7 @@
         "y": 3696
       }
     ]
-  }
+  },
+  "OGOVQRB": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/64px-DeToNator_2021_allmode.png",      "id": "OGOVQRB",      "name": "DTN (DeToNator)",      "popup": "DTN (DeToNator). Two markers because they also loot half of Skyhook."    },    "elements": [      {        "x": 886,        "y": 943      },{        "x": 1187,        "y": 1060      }    ]  },
+  "A1HEDNs": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/70px-Cloud9_allmode.png",      "id": "A1HEDNs",      "name": "C9 (Cloud9)",      "popup": "C9 (Cloud9)"    },    "elements": [      {        "x": 2951,        "y": 804      }    ]  }
 }
