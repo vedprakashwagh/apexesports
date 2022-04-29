@@ -34,7 +34,7 @@
       "default": true,
       "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/44px-Team_Liquid_2020_lightmode.png",
       "id": "SS2O9Yh",
-      "name": "Team Liquid",
+      "name": "TL (Team Liquid)",
       "popup": "Team Liquid"
     },
     "elements": [
@@ -63,5 +63,6 @@
   "7IGlxKc": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/61px-FOR7_allmode.png",      "id": "7IGlxKc",      "name": "FSV (For7)",      "popup": "FSV (For7). One player also loots tunnel, thats why the two markers."    },    "elements": [      {        "x": 2310,        "y": 839      }, {        "x": 2002,        "y": 693      }    ]  },
   "Nj4eOGF": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/30px-Fascination_of_Colors_allmode.png",      "id": "Nj4eOGF",      "name": "FC (Fascination Colors)",      "popup": "FC (Fascination Colors)"    },    "elements": [      {        "x": 2849,        "y": 693      },{        "x": 3057,        "y": 909      }    ]  },
   "5gaOIVg": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/50px-Team_Burger.png",      "id": "5gaOIVg",      "name": "BRGR (Team Burger)",      "popup": "BRGR (Team Burger)"    },    "elements": [      {        "x": 809,        "y": 1663      }    ]  },
-  "a92cB8f": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/100px-Acend_Purple_teamcardimage.png",      "id": "a92cB8f",      "name": "ACE (Acend)",      "popup": "ACE (Acend)"    },    "elements": [      {        "x": 1209,        "y": 1478      }    ]  }
+  "a92cB8f": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/100px-Acend_Purple_teamcardimage.png",      "id": "a92cB8f",      "name": "ACE (Acend)",      "popup": "ACE (Acend)"    },    "elements": [      {        "x": 1209,        "y": 1478      }    ]  },
+  "FofQNr3": {    "config": {      "default": true,      "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/56px-REJECT_2020_darkmode.png",      "id": "FofQNr3",      "name": "RC (REJECT)",      "popup": "RC (REJECT)"    },    "elements": [      {        "x": 2179,        "y": 1640      }    ]  }
 }
