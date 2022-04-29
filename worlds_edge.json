@@ -29,18 +29,18 @@
       }
     ]
   },
-  "teamliquid": {
+  "SS2O9Yh": {
     "config": {
       "default": true,
       "icon": "https://raw.githubusercontent.com/vedprakashwagh/apexesports/main/team_logos/44px-Team_Liquid_2020_lightmode.png",
-      "id": "teamliquid",
+      "id": "SS2O9Yh",
       "name": "Team Liquid",
       "popup": "Team Liquid"
     },
     "elements": [
       {
-        "x": 1265,
-        "y": 1013
+        "x": 897,
+        "y": 959
       }
     ]
   },
